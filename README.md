@@ -1,4 +1,4 @@
-# passwordgenerator
+# password_generator
 
 ### Documentation
 
